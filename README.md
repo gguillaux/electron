@@ -7,4 +7,4 @@ It can be refactored and adapted to be used in futures projects.
 
 Each icon on the left side is clickable and can be uset to refer to JavaScript functions.
 
-![template](img/template.png)
+![template](img/template.PNG)
